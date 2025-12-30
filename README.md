@@ -4,6 +4,14 @@ This repository is the central place for team formation and collaboration.
 
 Before starting any project, please read the instructions below carefully.
 
+This repository is used for:
+- Looking for teammates
+- Looking for specific roles (ML, Backend, Docs, etc.)
+- Inviting international collaborators
+- Team formation discussions
+
+Use GitHub Discussions to connect with others.
+
 ---
 
 ## Non-Negotiable Participation Rules
