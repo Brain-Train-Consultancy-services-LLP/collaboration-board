@@ -175,6 +175,8 @@ Brain Train Consultancy Services LLP provides an open collaboration platform onl
 
 Selection for any paid role, internship, or formal engagement may occur only after independent evaluation and at the sole discretion of Brain Train Consultancy Services LLP.
 
+All repositories under this organization are open for review by external recruiters and hiring organizations. Brain Train does not restrict hiring or outreach.
+
 
 
 
