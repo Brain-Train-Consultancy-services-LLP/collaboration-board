@@ -34,6 +34,20 @@ Projects that do not meet these requirements will not be observed or evaluated.
 
 ---
 
+## Team Visibility
+
+Teams may optionally register themselves by creating a GitHub Issue in this repository.
+
+Required information:
+- Project repository link
+- Team size
+- Countries represented
+- Team Lead GitHub ID
+- Applied Smart Intern present: Yes / No
+
+This provides visibility only.
+No approval or control is exercised.
+
 ---
 
 ## Standard README Format (Must Be Used)
