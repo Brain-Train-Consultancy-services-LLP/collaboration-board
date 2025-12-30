@@ -6,19 +6,31 @@ Before starting any project, please read the instructions below carefully.
 
 ---
 
+## Non-Negotiable Participation Rules
+
+- Only team-based projects are eligible.
+- Solo repositories will not be reviewed or evaluated.
+- Each team must have a minimum of 5 contributors.
+
+This ecosystem is designed to encourage collaboration, leadership, and real-world teamwork.
+
+---
+
 ## Project Repository Rules (Mandatory)
 
-Every team or individual must create their **own separate project repository**.
+very team must create its **own separate project repository**.
 
-Each project repository must contain a **README.md** file.
+Each project repository must contain the following files and follow the rules mentioned below.
 
-This README.md must follow the **standard format given below**.
+Projects that do not meet these requirements will not be observed or evaluated.
 
-Projects without this README format will not be observed or evaluated.
+---
 
 ---
 
 ## Standard README Format (Must Be Used)
+
+Each project repository must include a `README.md` file using the format below.
 
 # Project Name
 
@@ -58,12 +70,41 @@ Provide GitHub usernames or LinkedIn profile links.
 
 ---
 
+## Repository Eligibility Rules (Mandatory)
+
+To be considered a valid team project, **each repository must include all of the following files**:
+
+### 1. TEAM.md
+This file must clearly mention:
+- Team Lead
+- Team Members
+- Countries
+- Time Zones
+- Roles and responsibilities
+
+### 2. CONTRIBUTION.md
+This file must describe:
+- How team members contribute
+- How work is reviewed
+- How collaboration is managed
+
+### 3. README.md
+This must include:
+- Project overview
+- Problem being solved
+- Team structure
+- Collaboration workflow
+
+Repositories missing any of the above files will not be reviewed, observed, or evaluated.
+
+---
+
 ## Important Notes
 
-- README.md must be public
-- Teams are self-organized
+- All repositories must be public
+- Teams are fully self-organized
 - Brain Train only observes public work
-- No employment or stipend is guaranteed
+- No employment, internship, or stipend is guaranteed
 
 By creating a project repository, you agree to follow these rules.
 
@@ -76,6 +117,9 @@ Participation in this GitHub organization does not constitute employment, an int
 Brain Train Consultancy Services LLP provides an open collaboration platform only and does not offer paid roles, employment, or contractual obligations at this stage.
 
 Selection for any paid role, internship, or formal engagement may occur only after independent evaluation and at the sole discretion of Brain Train Consultancy Services LLP.
+
+
+
 
 
 
