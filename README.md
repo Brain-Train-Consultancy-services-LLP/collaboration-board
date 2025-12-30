@@ -181,6 +181,15 @@ Teams are expected to work collaboratively over a 6–8 week period. Brain Train
 
 Exceptional contributors may be invited to continue in advanced or paid initiatives when infrastructure becomes available.
 
+International participants may collaborate using their own personal GitHub accounts as part of teams. No organizational GitHub accounts or official access will be provided.
+
+Participation is open to domestic and international collaborators.
+All contributors must use their personal GitHub accounts and work only in team-based repositories.
+
+
+
+
+
 
 
 
