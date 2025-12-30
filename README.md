@@ -179,6 +179,8 @@ All repositories under this organization are open for review by external recruit
 
 Teams are expected to work collaboratively over a 6–8 week period. Brain Train may observe and evaluate individual contributions within teams during this period. Evaluation does not imply hiring or stipend commitment.
 
+Exceptional contributors may be invited to continue in advanced or paid initiatives when infrastructure becomes available.
+
 
 
 
