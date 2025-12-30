@@ -177,6 +177,8 @@ Selection for any paid role, internship, or formal engagement may occur only aft
 
 All repositories under this organization are open for review by external recruiters and hiring organizations. Brain Train does not restrict hiring or outreach.
 
+Teams are expected to work collaboratively over a 6–8 week period. Brain Train may observe and evaluate individual contributions within teams during this period. Evaluation does not imply hiring or stipend commitment.
+
 
 
 
