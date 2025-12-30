@@ -99,6 +99,41 @@ Repositories missing any of the above files will not be reviewed, observed, or e
 
 ---
 
+## Who Can Participate (Clear & Open)
+
+This collaboration ecosystem is open and inclusive.
+
+### Allowed Participants
+
+- Smart interns (applied or evaluated)
+- International students
+- Domestic students
+- Non-applicants
+- Independent open-source contributors
+
+All participants can:
+- Form teams
+- Lead teams
+- Invite collaborators from outside the organization
+
+There are no restrictions based on:
+- Country
+- College or university
+- Application status
+- Visa or geographic location
+- Academic year or background
+
+---
+
+### Platform Access Note
+
+Participation is subject to GitHub platform availability and applicable international regulations.
+
+Brain Train Consultancy Services LLP does not control or influence GitHub account access restrictions imposed due to country-specific regulations or sanctions.
+
+If GitHub access is unavailable in a participant’s location, Brain Train cannot override or intervene in such limitations.
+
+
 ## Important Notes
 
 - All repositories must be public
@@ -117,6 +152,8 @@ Participation in this GitHub organization does not constitute employment, an int
 Brain Train Consultancy Services LLP provides an open collaboration platform only and does not offer paid roles, employment, or contractual obligations at this stage.
 
 Selection for any paid role, internship, or formal engagement may occur only after independent evaluation and at the sole discretion of Brain Train Consultancy Services LLP.
+
+
 
 
 
