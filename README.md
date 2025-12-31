@@ -8,7 +8,7 @@ Before starting any project, please read the guidelines below carefully.
 
 ---
 
-# Purpose of This Repository
+## Purpose of This Repository
 
 This space is used exclusively for:
 - Finding teammates
@@ -24,27 +24,37 @@ Leadership and ownership emerge organically
 
 ---
 
+## How to Get Started
+
+If you are interested in a problem prompt and want to collaborate:
+1. Open a discussion in this repository
+2. Clearly state:
+   - What problem you want to work on
+   - What kind of collaborators you are looking for
+3. What kind of collaborators you are looking for
+4. Create a separate project repository for your work
+
+---
+
 ## Non-Negotiable Participation Rules
 
 - Only team-based projects are eligible.
 - Solo repositories will not be reviewed or evaluated.
-- Each team must have a minimum of 5 contributors.
+- Each team must have a minimum of 5 active contributors.
 
-This ecosystem is designed to encourage collaboration, leadership, and real-world teamwork.
+These rules exist to encourage collaboration, leadership, and real-world teamwork.
 
 ---
 
 ## Project Repository Rules (Mandatory)
 
-very team must create its **own separate project repository**.
+Each team must create its **own separate project repository**.
 
-Each project repository must contain the following files and follow the rules mentioned below.
-
-Projects that do not meet these requirements will not be observed or evaluated.
+Repositories that do not meet the requirements below will not be observed or evaluated.
 
 ---
 
-## Team Visibility
+## Team Visibility(Optional)
 
 Teams may optionally register themselves by creating a GitHub Issue in this repository.
 
@@ -55,22 +65,22 @@ Required information:
 - Team Lead GitHub ID
 - Applied Smart Intern present: Yes / No
 
-This provides visibility only.
-No approval or control is exercised.
+This registration provides visibility only.
+No approval, control, or ranking is exercised.
 
 ---
 
-## Standard README Format (Must Be Used)
+## Standard README Format (Mandatory)
 
 Each project repository must include a `README.md` file using the format below.
 
 # Project Name
 
 ## Problem Statement
-Describe in simple words what problem this project is trying to solve.
+Describe the problem the project aims to address.
 
 ## Why This Problem Matters
-Explain the real-world impact of this problem and why it is important.
+Explain the real-world relevance and impact.
 
 ## Team Members
 - Name 1
@@ -127,8 +137,7 @@ This must include:
 - Team structure
 - Collaboration workflow
 
-Repositories missing any of the above files will not be reviewed, observed, or evaluated.
-
+Repositories missing any required file will not be observed or evaluated.
 ---
 
 ## Who Can Participate (Clear & Open)
@@ -137,7 +146,7 @@ This collaboration ecosystem is open and inclusive.
 
 ### Allowed Participants
 
-- Smart interns (applied or evaluated)
+- Applied or evaluated Smart Interns
 - International students
 - Domestic students
 - Non-applicants
@@ -170,26 +179,27 @@ If GitHub access is unavailable in a participant’s location, Brain Train canno
 
 - All repositories must be public
 - Teams are fully self-organized
-- Brain Train only observes public work
+- Brain Train observes public work only
 - No employment, internship, or stipend is guaranteed
 
-By creating a project repository, you agree to follow these rules.
+By creating a project repository, you agree to follow these guidelines.
 
 ---
 
 ## Legal & Ethical Disclaimer
 
-Participation in this GitHub organization does not constitute employment, an internship guarantee, or any stipend commitment.
+Participation in this GitHub organization does not constitute employment, an internship offer, or a stipend commitment.
 
-Brain Train Consultancy Services LLP provides an open collaboration platform only and does not offer paid roles, employment, or contractual obligations at this stage.
+Brain Train Consultancy Services LLP provides an open collaboration platform only and does not enter into contractual obligations at this stage.
 
-Selection for any paid role, internship, or formal engagement may occur only after independent evaluation and at the sole discretion of Brain Train Consultancy Services LLP.
+Any paid role, internship, or formal engagement may occur only after independent evaluation and solely at the discretion of Brain Train Consultancy Services LLP.
 
-All repositories under this organization are open for review by external recruiters and hiring organizations. Brain Train does not restrict hiring or outreach.
+All repositories are publicly visible and may be reviewed by external recruiters or hiring organizations. Brain Train does not restrict external outreach.
 
-Teams are expected to work collaboratively over a 6–8 week period. Brain Train may observe and evaluate individual contributions within teams during this period. Evaluation does not imply hiring or stipend commitment.
+Teams are expected to collaborate over a 6–8 week period.
+Brain Train may observe individual contributions during this time. Observation does not imply hiring or compensation.
 
-Exceptional contributors may be invited to continue in advanced or paid initiatives when infrastructure becomes available.
+Exceptional contributors may be invited into advanced or paid initiatives if and when infrastructure becomes available.
 
 International participants may collaborate using their own personal GitHub accounts as part of teams. No organizational GitHub accounts or official access will be provided.
 
