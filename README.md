@@ -40,7 +40,7 @@ If you are interested in a problem prompt and want to collaborate:
 
 - Only team-based projects are eligible.
 - Solo repositories will not be reviewed or evaluated.
-- Each team must have a minimum of 5 active contributors.
+- Each team must have a minimum of 2 and a maximum of 5 active contributors.
 
 These rules exist to encourage collaboration, leadership, and real-world teamwork.
 
