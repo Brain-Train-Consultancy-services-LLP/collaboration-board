@@ -1,26 +1,26 @@
-# Collaboration Board – How to Get Started
+# Collaboration Board
 
-This repository is the central place for team formation and collaboration.
+Team Formation and Open Collaboration Hub
 
-Before starting any project, please read the instructions below carefully.
+This repository serves as the central coordination space for forming teams and initiating collaborative projects.
 
-This repository is used for:
-- Looking for teammates
-- Looking for specific roles (ML, Backend, Docs, etc.)
+Before starting any project, please read the guidelines below carefully.
+
+---
+
+# Purpose of This Repository
+
+This space is used exclusively for:
+- Finding teammates
+- Looking for specific roles (ML, Backend, Documentation, Product, etc.)
 - Inviting international collaborators
-- Team formation discussions
+- Open discussions around team formation
 
-Use GitHub Discussions to connect with others.
+All collaboration happens through GitHub Discussions.
+Teams form voluntarily. No tasks are assigned here.
 
-This space is for forming teams organically.
-
-If you are interested in a problem prompt
-and want to collaborate with others,
-you can start a discussion here.
-
-This is not a task assignment board.
-Teams form voluntarily.
-Leadership emerges naturally.
+This is not a task board or assignment system.
+Leadership and ownership emerge organically
 
 ---
 
