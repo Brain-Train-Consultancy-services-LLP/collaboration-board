@@ -12,6 +12,16 @@ This repository is used for:
 
 Use GitHub Discussions to connect with others.
 
+This space is for forming teams organically.
+
+If you are interested in a problem prompt
+and want to collaborate with others,
+you can start a discussion here.
+
+This is not a task assignment board.
+Teams form voluntarily.
+Leadership emerges naturally.
+
 ---
 
 ## Non-Negotiable Participation Rules
